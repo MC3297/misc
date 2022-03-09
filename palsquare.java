@@ -1,5 +1,4 @@
 /*
-ID: ashleyd1
 LANG: JAVA
 TASK: palsquare
 */
